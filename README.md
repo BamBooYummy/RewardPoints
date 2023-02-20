@@ -31,6 +31,7 @@ GET /api/rewards/total returns a list of total rewards for each customer
 ![Screenshot 2023-02-20 154829](https://user-images.githubusercontent.com/125827402/220197108-08472942-c3dc-4784-bc7f-ad74416993f1.png)
 
 Data in MySQL DB
+
 ![Screenshot 2023-02-20 154911](https://user-images.githubusercontent.com/125827402/220197110-4e6b6ea2-4206-497c-a519-a84e8df6058d.png)
 ![Screenshot 2023-02-20 154926](https://user-images.githubusercontent.com/125827402/220197112-344f2271-0755-4a3e-ae71-6b724a1d4b98.png)
 
