@@ -26,7 +26,14 @@ REST API
 The application provides the following REST API endpoints:
 
 GET /api/rewards/all returns a list of rewards for each customer and each month
+![Screenshot 2023-02-20 154801](https://user-images.githubusercontent.com/125827402/220197104-8f615cc6-828a-4619-be97-d4b7d4f392d7.png)
 GET /api/rewards/total returns a list of total rewards for each customer
+![Screenshot 2023-02-20 154829](https://user-images.githubusercontent.com/125827402/220197108-08472942-c3dc-4784-bc7f-ad74416993f1.png)
+
+Data in MySQL DB
+![Screenshot 2023-02-20 154911](https://user-images.githubusercontent.com/125827402/220197110-4e6b6ea2-4206-497c-a519-a84e8df6058d.png)
+![Screenshot 2023-02-20 154926](https://user-images.githubusercontent.com/125827402/220197112-344f2271-0755-4a3e-ae71-6b724a1d4b98.png)
+
 Testing
 To run the tests for the application:
 
