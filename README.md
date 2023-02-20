@@ -35,11 +35,6 @@ Data in MySQL DB
 ![Screenshot 2023-02-20 154911](https://user-images.githubusercontent.com/125827402/220197110-4e6b6ea2-4206-497c-a519-a84e8df6058d.png)
 ![Screenshot 2023-02-20 154926](https://user-images.githubusercontent.com/125827402/220197112-344f2271-0755-4a3e-ae71-6b724a1d4b98.png)
 
-Testing
-To run the tests for the application:
-
-Open the project in your Java IDE of choice
-Run the tests in the src/test/java directory
 Dependencies
 This project uses the following dependencies:
 
