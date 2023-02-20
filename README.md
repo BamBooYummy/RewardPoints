@@ -3,23 +3,39 @@ README
 This is a Java Spring Boot application that calculates rewards points for transactions made by customers.
 
 Project Structure
+
 src/main/java contains the Java source code for the application
+
 com.example.rewardsservice contains the main package
+
 controller contains the REST API controllers
+
 entity contains the JPA entity classes
+
 repository contains the JPA repository interfaces
+
 service contains the service classes
+
 src/main/resources contains the application properties files and the SQL file to initialize the database
+
 src/test/java contains the Java test classes for the application
 
 Project Structure
+
 src/main/java contains the Java source code for the application
+
 com.example.rewardsservice contains the main package
+
 controller contains the REST API controllers
+
 entity contains the JPA entity classes
+
 repository contains the JPA repository interfaces
+
 service contains the service classes
+
 src/main/resources contains the application properties files and the SQL file to initialize the database
+
 src/test/java contains the Java test classes for the application
 
 REST API
@@ -39,8 +55,13 @@ Dependencies
 This project uses the following dependencies:
 
 Spring Boot
+
 Spring Data JPA
+
 MySQL Database
+
 Lombok
+
 JUnit5
+
 Mockito
